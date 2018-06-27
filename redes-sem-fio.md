@@ -16,18 +16,22 @@ Sistemas de comunicação wireless; Padrões de redes locais e de longa distânc
 
 ### Bases Científico-Tecnológicas (Conteúdos)
 
-1.     Sistemas de comunicação wireless
-2.     Redes locais wireless
-       2.1. Padrão 802.11a
-       2.2. Padrão 802.11b
-       2.3. Padrão 802.11g
-       2.4. Padrão 802.11n
-       2.5. Padrão Bluetooth
-       2.6. Padrão WIMAX
-3.     Sistemas de telefonia celular
-       3.1. Sistema GSM
-       3.2. Sistema GPRS
-       3.3. Sistema WCDMA
+1. Sistemas de comunicação wireless
+2. Redes locais wireless
+
+   * Padrão 802.11a
+   * Padrão 802.11b
+   * Padrão 802.11g
+   * Padrão 802.11n
+   * Padrão Bluetooth
+   * Padrão WIMAX
+       
+3. Sistemas de telefonia celular
+
+   * Sistema GSM
+   * Sistema GPRS
+   * Sistema WCDMA
+       
 4.     Telefonia celular 2,5G, 3G e 4G.
 5.     Televisão Digital
 6.     Estudos de caso em configuração de serviços
