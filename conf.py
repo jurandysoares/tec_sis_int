@@ -1,6 +1,6 @@
 from recommonmark.parser import CommonMarkParser
-extensions = ['sphinx.ext.mathjax',
-    'sphinx.ext.githubpages']
+#extensions = ['sphinx.ext.mathjax',
+#    'sphinx.ext.githubpages']
 templates_path = ['_templates']
 source_suffix = ['.rst', '.md']
 source_parsers = {
