@@ -4,7 +4,7 @@ Programação de Tecnologias Móveis e Sem fio
 :Curso: Tecnologia em Sistemas para Internet
 :Disciplina: Programação de Tecnologias Móveis e Sem fio
 :Carga-Horária: 60h (80h/a) 
-:Pré-Requisito(s): Redes sem fio 
+:Pré-Requisito(s): :doc:`redes-sem-fio` 
 :Número de créditos: 4
 
 EMENTA
