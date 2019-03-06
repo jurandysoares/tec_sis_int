@@ -19,7 +19,7 @@ PROGRAMA
 Objetivos
 ~~~~~~~~~
 
-• Apresentar ao aluno as principais tecnologias móveis e sem fios.
+* Apresentar ao aluno as principais tecnologias móveis e sem fios.
 
 Bases Científico-Tecnológicas (Conteúdos)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -27,18 +27,18 @@ Bases Científico-Tecnológicas (Conteúdos)
 1. Sistemas de comunicação wireless
 2. Redes locais wireless
 
--  Padrão 802.11a
--  Padrão 802.11b
--  Padrão 802.11g
--  Padrão 802.11n
--  Padrão Bluetooth
--  Padrão WIMAX
+   1. Padrão 802.11a
+   2. Padrão 802.11b
+   3. Padrão 802.11g
+   4. Padrão 802.11n
+   5. Padrão Bluetooth
+   6. Padrão WIMAX
 
 3. Sistemas de telefonia celular
 
--  Sistema GSM
--  Sistema GPRS
--  Sistema WCDMA
+   1. Sistema GSM
+   2. Sistema GPRS
+   3. Sistema WCDMA
 
 4. Telefonia celular 2,5G, 3G e 4G.
 5. Televisão Digital
@@ -55,7 +55,7 @@ visitas técnicas, pesquisas bibliográficas.
 Recursos Didáticos
 ~~~~~~~~~~~~~~~~~~
 
-• Quadro branco, computador, projetor multimídia, retroprojetor, vídeos.
+* Quadro branco, computador, projetor multimídia, retroprojetor, vídeos.
 
 Avaliação
 ~~~~~~~~~
@@ -88,8 +88,7 @@ Bibliografia Complementar
 5. COMER, D. E. e LIMA, A. S. Redes de computadores e internet: abrange
    transmissão de dados, ligações inter-redes, web e aplicações. Bookman
 
-   ::
+Software(s) de Apoio:
+~~~~~~~~~~~~~~~~~~~~~
 
-                                                     Software(s) de Apoio:
-
-• Analisadores de protocolo.
+* Analisadores de protocolo.

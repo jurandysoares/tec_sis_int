@@ -3,8 +3,9 @@ Programação de Tecnologias Móveis e Sem fio
 
 :Curso: Tecnologia em Sistemas para Internet
 :Disciplina: Programação de Tecnologias Móveis e Sem fio
-:Carga-Horária: 60h (80h/a) Pré-Requisito(s): Redes sem fio Número de
-   créditos: 4
+:Carga-Horária: 60h (80h/a) 
+:Pré-Requisito(s): Redes sem fio 
+:Número de créditos: 4
 
 EMENTA
 ------
@@ -18,7 +19,7 @@ PROGRAMA
 Objetivos
 ~~~~~~~~~
 
-• Programar em ambiente móvel embarcado.
+* Programar em ambiente móvel embarcado.
 
 Bases Científico-Tecnológicas (Conteúdos)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -39,7 +40,7 @@ visitas técnicas, pesquisas bibliográficas.
 Recursos Didáticos
 ~~~~~~~~~~~~~~~~~~
 
-• Quadro branco, computador, projetor multimídia, retroprojetor, vídeos.
+* Quadro branco, computador, projetor multimídia, retroprojetor, vídeos.
 
 Avaliação
 ~~~~~~~~~
@@ -77,8 +78,7 @@ Bibliografia Complementar
 6. Pierce, G. Unity iOS Game Development Beginners Guide. Disponível na
    biblioteca virtual Ebrary.
 
-   ::
-
-                                                     Software(s) de Apoio:
+Software(s) de Apoio:
+~~~~~~~~~~~~~~~~~~~~~
 
 Linguagens de programação para dispositivos móveis embarcados.

@@ -18,7 +18,7 @@ PROGRAMA
 Objetivos
 ~~~~~~~~~
 
-• Programar em ambiente de redes para comunicação de dados.
+* Programar em ambiente de redes para comunicação de dados.
 
 Bases Científico-Tecnológicas (Conteúdos)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,8 +72,7 @@ Bibliografia Complementar
 5. WALDO, J; MACHADO, E. O melhor do Java Rio de Janeiro: Alta Books,
    2011.
 
-   ::
-
-                                                     Software(s) de Apoio:
+Software(s) de Apoio:
+~~~~~~~~~~~~~~~~~~~~~
 
 Netbeans, Eclipse, JavaMail.

@@ -18,20 +18,31 @@ PROGRAMA
 Objetivos
 ~~~~~~~~~
 
-• Descrever camadas do Modelo TCP/IP: aplicação e transporte; • Conhecer
-os protocolos das camadas superiores; • Conhecer as tecnologias das
-redes multimídia; • Implementar uma rede local com serviços;
+* Descrever camadas do Modelo TCP/IP: aplicação e transporte; 
+* Conhecer os protocolos das camadas superiores; 
+* Conhecer as tecnologias das redes multimídia; 
+* Implementar uma rede local com serviços;
 
 Bases Científico-Tecnológicas (Conteúdos)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Camadas do Modelo /Arquitetura TCP/IP 1.1. Camada de transporte:
-   serviços oferecidos; protocolos TCP e UDP. 1.1.1. Multiplexação de
-   dados 1.1.2. Transporte não orientado à conexão 1.1.3. Transporte
-   orientado à conexão 1.1.4. Controle de congestionamento 1.2. Camada
-   de aplicação: aspectos gerais e estudos dos modelos de interação de
-   aplicações TCP/IP 1.2.1. HTTP 1.2.2. DNS 1.2.3. FTP 1.2.4. SMTP, POP3
-   e IMAP
+1. Camadas do Modelo /Arquitetura TCP/IP 
+
+   1. Camada de transporte: serviços oferecidos; protocolos TCP e UDP.
+
+      1. Multiplexação de dados 
+      2. Transporte não orientado à conexão
+      3. Transporte orientado à conexão
+      4. Controle de congestionamento 
+
+   2. Camada de aplicação: aspectos gerais e estudos dos modelos de interação de
+   aplicações TCP/IP
+
+      1. HTTP
+      2. DNS
+      3. FTP
+      4. SMTP, POP3 e IMAP
+
 2. Redes Multimídia
 
 Procedimentos Metodológicos
@@ -39,11 +50,12 @@ Procedimentos Metodológicos
 
 Aulas teóricas expositivas; Aulas práticas em laboratório;
 Desenvolvimento de projetos; Leitura de textos, palestras, seminários,
-visitas técnicas, pesquisas bibliográficas. ### Recursos Didáticos
+visitas técnicas, pesquisas bibliográficas. 
 
-::
+Recursos Didáticos
+~~~~~~~~~~~~~~~~~~
 
-      •    Quadro branco, computador, projetor multimídia, retroprojetor, vídeos.
+* Quadro branco, computador, projetor multimídia, retroprojetor, vídeos.
 
 Avaliação
 ~~~~~~~~~
@@ -73,8 +85,8 @@ Bibliografia Complementar
 5. SOARES, L. F.; LEMOS, G.; COLCHER, S. Redes de Computadores: Das
    LANs, MANs e WANs às Redes ATM. Campus.
 
-   ::
+Software(s) de Apoio:
+~~~~~~~~~~~~~~~~~~~~~
 
-                                                     Software(s) de Apoio:
-
-   • Analisadores de protocolo. • Sistemas operacionais de redes.
+* Analisadores de protocolo. 
+* Sistemas operacionais de redes.

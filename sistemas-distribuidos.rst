@@ -5,7 +5,7 @@ Sistemas Distribuídos
 :Disciplina: Sistemas Distribuídos
 :Carga-Horária: 60h (80h/a) 
 :Pré-Requisito(s): :doc:`redes-de-computadores`
-   Número de créditos 4
+:Número de créditos: 4
 
 EMENTA
 ------
@@ -23,28 +23,57 @@ PROGRAMA
 Objetivos
 ~~~~~~~~~
 
-• Apresentar os principais tópicos relacionados a Sistemas Distribuídos;
-• Habilitar o aluno a desenvolver uma aplicação simples, de forma
-distribuída, utilizando os conceitos e ferramentas discutidos na
-disciplina;
+* Apresentar os principais tópicos relacionados a Sistemas Distribuídos;
+* Habilitar o aluno a desenvolver uma aplicação simples, de forma distribuída, utilizando os conceitos e ferramentas discutidos na disciplina;
 
 Bases Científico-Tecnológicas (Conteúdos)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. Processos 1.1. Introdução ao conceito de processo 1.2. Comunicação
-   entre processos 1.2.1. Condições de corrida 1.2.2. Regiões críticas
-   1.2.3. Exclusão mútua 1.2.4. Semáforos 1.2.5. Monitores 1.2.6. Trocas
-   de mensagens
-2. Introdução aos Sistemas Distribuídos 2.1. Objetivos 2.2. Aspectos de
-   projeto 2.2.1. Transparência 2.2.2. Flexibilidade 2.2.3.
-   Confiabilidade 2.2.4. Performance 2.3. Escalabilidade
-3. Comunicação nos Sistemas Distribuídos 3.1. Modelo cliente-servidor
-   3.2. Introdução aos protocolos da Internet 3.3. Chamada remota a
-   procedimentos 3.4. RMI 3.5. Sockets
-4. Sincronização em Sistemas Distribuídos 4.1. Sincronização através de
-   clock 4.2. Exclusão mútua 4.3. Algoritmos eletivos 4.4. Transações
-   atômicas 4.5. Deadlocks
-5. Suporte a Threads 5.1. Conceitos 5.2. Multithreading
+1. Processos
+
+   1. Introdução ao conceito de processo
+   2. Comunicação entre processos
+   
+      1. Condições de corrida
+      2. Regiões críticas
+      3. Exclusão mútua
+      4. Semáforos
+      5. Monitores
+      6. Trocas de mensagens
+      
+2. Introdução aos Sistemas Distribuídos
+
+   1. Objetivos
+   2. Aspectos de projeto
+   
+      1. Transparência
+      2. Flexibilidade
+      3. Confiabilidade
+      4. Performance
+      
+   3. Escalabilidade
+   
+3. Comunicação nos Sistemas Distribuídos
+
+   1. Modelo cliente-servidor
+   2. Introdução aos protocolos da Internet
+   3. Chamada remota a procedimentos
+   4. RMI
+   5. Sockets
+   
+4. Sincronização em Sistemas Distribuídos
+
+   1. Sincronização através de clock
+   2. Exclusão mútua
+   3. Algoritmos eletivos
+   4. Transações atômicas
+   5. Deadlocks
+   
+5. Suporte a Threads
+
+   1. Conceitos
+   2. Multithreading
+   
 6. Serviço de nomes e diretórios distribuídos
 7. Sistemas de arquivos distribuídos
 8. Componentes para computação distribuída
